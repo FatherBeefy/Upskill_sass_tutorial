@@ -40,6 +40,11 @@ background: linear-gradient(to right, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, F
   border: none;
 }
 
+.navbar-brand {
+    font-family: 'open sans', sans-serif;
+    font-weight: 800;
+}
+
 .home-callout {
   color: white;
   ;
